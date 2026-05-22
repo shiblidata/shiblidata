@@ -1,5 +1,5 @@
 <h2 align="center">Assalamu Alaikum!</h2>
-<h1 align="center">I'm Shibli</h1>
+<h1 align="center">I'm Mehedi Hasan Shibli</h1>
 
 <h3 align="center">AI, Machine Learning & Data Analytics Enthusiast | CSE Undergraduate</h3>
 
