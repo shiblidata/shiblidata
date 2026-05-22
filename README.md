@@ -13,15 +13,10 @@ Passionate about Artificial Intelligence, Data Analytics, Machine Learning and C
 <p align="center">
 <img align="center" height="150" width="350" src="https://scontent.fdac41-2.fna.fbcdn.net/v/t39.30808-6/611296504_1894022501991323_1121856416850440811_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeFtXTy2iONvdue7lym1xGQqpdwLvVSUIcOl3Au9VJQhw85MvqXHs3gfbmFq4z8-IeSr63hNGesa9QyyqrpIIZFu&_nc_ohc=Hw7sU2gpnKgQ7kNvwE9WH3f&_nc_oc=AdqRptNPYQNC7vrJcKIf4VbgZr3TQM1gUf5mmXWWlJI_-iRp3282XsTBVnFunXU5g4c1VbaMJBK8Q-9F7n-4RAN9&_nc_zt=23&_nc_ht=scontent.fdac41-2.fna&_nc_gid=sEcOmJFuzIpn3yB007jSvw&_nc_ss=7b2a8&oh=00_Af5lrFghRkgEmO7WmU1Rhxrc7OvYzh4H49wNXsr2Nz0Thw&oe=6A16934B"  />
 </p>
-- 🎓 Computer Science & Engineering Student  
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, Data Analytics & Computer Vision**
-- 🔬 Currently working on research projects related to:
-  - Mental Health Analysis using AI
-  - Intelligent Traffic Management for Dhaka City
-  - Food Quality Assessment using Image Processing
-- 🐍 Skilled in **Python**
-- 📚 Continuously learning emerging technologies and research methodologies
-- 🤝 Open to **research collaborations, internships and AI-related opportunities**
+<p>Computer Science and Engineering student with a growing research interest in Artificial Intelligence, Data Analytics, Machine Learning and Computer Vision. Passionate about leveraging technology and data-driven methodologies to address real-world challenges and contribute to impactful innovations.
+Currently involved in research projects focusing on AI applications in mental health analysis, intelligent traffic management systems for Dhaka city, and food quality assessment through image processing techniques. These experiences have enhanced my understanding of applied AI, analytical problem-solving and research-oriented development.
+Proficient in Python and continuously developing expertise in machine learning, data analysis, image processing, and emerging technologies. In addition to technical development, I value structured thinking, continuous learning, collaboration and building solutions with practical and societal impact.Open to research collaborations, internships and professional opportunities in Artificial Intelligence, Data Science and technology-driven innovation.
+</p>
 
 ---
 
