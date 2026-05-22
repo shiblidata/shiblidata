@@ -4,7 +4,7 @@
 <h3 align="center">AI, Machine Learning & Data Analytics Enthusiast | CSE Undergraduate</h3>
 
 <p align="center">
-Passionate about Artificial Intelligence, Data Analytics, Machine Learning and Computer Vision with a strong interest in building intelligent solutions for real-world challenges.
+*Passionate about Artificial Intelligence, Data Analytics, Machine Learning and Computer Vision with a strong interest in building intelligent solutions for real-world challenges.*
 </p>
 
 ---
