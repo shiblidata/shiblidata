@@ -72,7 +72,7 @@ Passionate about Artificial Intelligence, Data Analytics, Machine Learning and C
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="30" />
 </a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shiblidata/" target="blank">
+<a href="https://www.linkedin.com/in/shiblidata/" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
 </a>
 </p>
