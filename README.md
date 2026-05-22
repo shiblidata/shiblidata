@@ -81,22 +81,6 @@ Passionate about Artificial Intelligence, Data Analytics, Machine Learning and C
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/shiblidata" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="30" />
-</a>
-
-<a href="https://www.linkedin.com/in/shiblidata/" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
-</a>
-</p>
-<br>
-- shibli.data@gmail.com 
----
-
-
 > “Building intelligent solutions through AI, data and innovation.”
 
  
