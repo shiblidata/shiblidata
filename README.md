@@ -10,9 +10,9 @@ Passionate about Artificial Intelligence, Data Analytics, Machine Learning and C
 ---
 
 ## 🚀 About Me
-<img align="center" height="150" src="https://scontent.fdac41-2.fna.fbcdn.net/v/t39.30808-6/611296504_1894022501991323_1121856416850440811_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeFtXTy2iONvdue7lym1xGQqpdwLvVSUIcOl3Au9VJQhw85MvqXHs3gfbmFq4z8-IeSr63hNGesa9QyyqrpIIZFu&_nc_ohc=Hw7sU2gpnKgQ7kNvwE9WH3f&_nc_oc=AdqRptNPYQNC7vrJcKIf4VbgZr3TQM1gUf5mmXWWlJI_-iRp3282XsTBVnFunXU5g4c1VbaMJBK8Q-9F7n-4RAN9&_nc_zt=23&_nc_ht=scontent.fdac41-2.fna&_nc_gid=sEcOmJFuzIpn3yB007jSvw&_nc_ss=7b2a8&oh=00_Af5lrFghRkgEmO7WmU1Rhxrc7OvYzh4H49wNXsr2Nz0Thw&oe=6A16934B"  />
-
-
+<p align="center">
+<img align="center" height="150" width="600" src="https://scontent.fdac41-2.fna.fbcdn.net/v/t39.30808-6/611296504_1894022501991323_1121856416850440811_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeFtXTy2iONvdue7lym1xGQqpdwLvVSUIcOl3Au9VJQhw85MvqXHs3gfbmFq4z8-IeSr63hNGesa9QyyqrpIIZFu&_nc_ohc=Hw7sU2gpnKgQ7kNvwE9WH3f&_nc_oc=AdqRptNPYQNC7vrJcKIf4VbgZr3TQM1gUf5mmXWWlJI_-iRp3282XsTBVnFunXU5g4c1VbaMJBK8Q-9F7n-4RAN9&_nc_zt=23&_nc_ht=scontent.fdac41-2.fna&_nc_gid=sEcOmJFuzIpn3yB007jSvw&_nc_ss=7b2a8&oh=00_Af5lrFghRkgEmO7WmU1Rhxrc7OvYzh4H49wNXsr2Nz0Thw&oe=6A16934B"  />
+</p>
 - 🎓 Computer Science & Engineering Student  
 - 🤖 Interested in **Artificial Intelligence, Machine Learning, Data Analytics & Computer Vision**
 - 🔬 Currently working on research projects related to:
